@@ -1,0 +1,9 @@
+body{
+    margin: 40px 40px;
+    background-color: lightseagreen;
+}
+
+#top ,h1,article,footer{
+    border-bottom: 2px solid black ;
+    padding: 5px 5px;
+} 
